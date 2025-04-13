@@ -25,8 +25,7 @@ An intelligent exam scheduling system built in **Python** using **backtracking**
 ## File Structure
 
 ```
-📁 exam-scheduler/
-├── exam_scheduler.py        # Main Python script
+├── exam_scheduler.ipynb       # Main Python script
 ├── README.md                # Project documentation
 └── 📁 dataset/               # Input files
     ├── courses.xlsx
